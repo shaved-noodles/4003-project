@@ -1,8 +1,10 @@
 # 4003-project
- exploratory data analysis and visualization of NY crime data
+This project is an exploratory data analysis and visualization of NY crime data. This is the coursework for 4003: Data Skills for Computational Social Science.
+
+I would like to thank my teammate Anwen Li. She is a great teammate and did an amazing job in brainstorming especially.
  
-since the project is too large to display on Github, I uploaded it through this link:
+Since the project is too large to display on Github, I uploaded it through this link:
 
 https://easyupload.io/cry8n7
 
-you are very welcome to download and play with the datasets!
+You are very welcome to download and play with the datasets!
